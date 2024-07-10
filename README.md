@@ -1,7 +1,7 @@
 <h2 align="center"> Hola, Soy Lillys Hernández! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 
-![person-working-from-home-with-pet-dog](https://github.com/LOLA-1980/LOLA-1980/assets/109870340/fbabdeb9-fd93-43f8-9837-fd9179443095)
+![White Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/LOLA-1980/LOLA-1980/assets/109870340/8e810bda-0c78-42d7-baf7-69117699d2db)
 
 <p><em>Ingeniera en Sistemas Computacionales en el <a href="http://www.unb.br">I.T.S.X</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>FrontEnd Developer como profesión<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
